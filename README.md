@@ -5,6 +5,7 @@ A straight forward commmand line application to manage departments and employees
 ## Table of Contents
 - [Description](#description)
 - [License](#license)
+- [Questions](#questions)
 ## License
 MIT
 ## Questions
